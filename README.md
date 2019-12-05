@@ -15,5 +15,5 @@ Managed by **beetea** and all other passionate, pioneering 12 participants
 - D : Sum of Score
 - E : Plus with One, Two, Three! (BOJ 9095)
 
-> "I hope this study could change your life! :)"
-*Cordially, beetea*
+> "I hope this study could change your life! :)"  
+> *Cordially, beetea*
