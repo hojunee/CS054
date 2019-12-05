@@ -6,4 +6,4 @@
 - B : Replace!
 - C : Abbreviation of Starbucks
 - D : Sum of Score
-- E : (Preparing)
+- E : Plus with One, Two, Three! (BOJ 9095)
