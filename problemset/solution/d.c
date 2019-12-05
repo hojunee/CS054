@@ -59,9 +59,6 @@ int main()
     for (i=0; i<n; i++)
     {
         scanf("%d %d %d", &scores[i].writing, &scores[i].clang, &scores[i].basic_str);
-        sum_w += scores[i].writing;
-        sum_c += scores[i].clang;
-        sum_b += scores[i].basic_str;
     }
     
     for (i=0; i<n/2; i++)
