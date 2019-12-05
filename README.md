@@ -3,10 +3,10 @@
 Managed by **beetea** and all other passionate, pioneering 12 participants
 
 ## Contents
-- 1. Pointer I
-- 2. Pointer II & String/Struct I
-- 3. String/Struct II
-- 4. Curtain Call!
+1. Pointer I
+2. Pointer II & String/Struct I
+3. String/Struct II
+4. Curtain Call!
 
 **Curtain Call Test**
 - A : Goodbye, World!
