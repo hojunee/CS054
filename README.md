@@ -12,7 +12,7 @@ Managed by **beetea** and all other passionate, pioneering 12 participants
 - A : Goodbye, World!
 - B : Replace!
 - C : Abbreviation of Starbucks
-- D : Sum of Score
+- D : Onion Comparison
 - E : Plus with One, Two, Three! (BOJ 9095)
 
 > "I hope this study could change your life! :)"  
